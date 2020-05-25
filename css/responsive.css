@@ -1,0 +1,10 @@
+
+@media (max-width: 1370px) {
+    .main-note {
+        padding-bottom: 1rem;
+    }
+
+    .main-topic {
+        font-size: 5rem;
+    }
+}
