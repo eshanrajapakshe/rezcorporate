@@ -1,2 +1,0 @@
-# rezcorporate
-Rezgateway corporate website
